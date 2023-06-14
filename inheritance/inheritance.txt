@@ -1,0 +1,18 @@
+inheritance
+inheritance is a process of aqiring the properties and behaviours from another class.
+by using inheritance we can achieve code reusability.
+inheritance is a fundamental concept in object-oriented programming (OOP) that allows class to inherit properties and behaviour from other class.  
+not only variable it is also inherits methods also.
+In Java, static members are not involved in the process of inheritance because they belong to the class itself, rather than to individual objects. 
+
+When a subclass extends a superclass, it inherits the instance members (fields and methods) of the superclass. These instance members are associated with individual objects and can have different values or behaviors for each object. Inheritance allows the subclass to reuse and extend these instance members.
+
+On the other hand, static members are associated with the class itself and are shared among all instances of the class. They have a single copy that is shared across all objects of that class. Static members are stored in a special area of memory separate from the individual object instances.
+
+The primary purpose of inheritance is to allow subclasses to inherit and extend the behavior of their superclass. Static members, being independent of object instances, are not subject to extension or polymorphism. They are tied to the specific class in which they are defined, and they do not change based on subclassing or object instantiation.
+
+In order to access static members, you can use the class name directly without the need for inheritance. Static members are accessible through the class name because they are associated with the class itself rather than with individual objects or their inheritance hierarchy.
+
+By excluding static members from the inheritance process, Java promotes encapsulation and maintains a clear separation between class-level behavior (static members) and instance-level behavior (instance members).
+is-a inheritance
+has-a is composition

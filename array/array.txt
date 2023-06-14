@@ -1,0 +1,16 @@
+1.write a java program to print all the divisors of 10000.Find sum 
+of the individual digits for 15th divisor and find product of 
+individual digits for 19th divisors in both the cases check whether
+the result is divisible by either 5 or 2.
+Dislay the appropirate message.
+
+
+
+array
+1.write a java program to create an integer array with 10 locations.
+Store 35 in the first location.Also display the element.
+
+2.write a java program to create an byte array with 5 locations.
+Accept two numbers from the user and store 1st number 
+in the 2nd position and 2nd number in the 3rd position.
+Add both numbers and display the sum.

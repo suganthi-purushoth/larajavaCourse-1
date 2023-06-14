@@ -1,0 +1,15 @@
+the pillars of object oriented programming language are:
+encapsulation
+inheritance
+polymorpism
+abstract class
+encapsulartion:
+-encapsulation in java is a process of wrapping code and data together into a single unit.for example,a capsule     which is mixed of several medicines.
+-we can able to achieve through data security through encapsulation
+-we can achieve data hiding.
+-by using getters and setters we can make the data read only or write-only
+-by using getters and setters we can have control over the data.
+-other class cannot access directly.
+read only-by getters method
+getter and setter method must be declared as public.
+write only -by setters method
